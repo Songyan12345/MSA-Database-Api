@@ -8,7 +8,7 @@ The Azure-hosted APIs can be found [here](https://msa-student-address.azurewebsi
 
 ### Student table example:
 
-![Student Table](/StudentTable.JPG)
+
 
 ### Address table example:
 
