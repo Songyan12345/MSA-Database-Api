@@ -14,6 +14,7 @@ The Azure-hosted APIs can be found [here](https://msa-student-address.azurewebsi
 
 ### API endpoints (Swagger):
 
+#### Addresses:
 * **GET /api/Addresses** retrieves all Addresses
 
 * **POST /api/Addresses** creates a new Address and new Student
@@ -28,8 +29,7 @@ The Azure-hosted APIs can be found [here](https://msa-student-address.azurewebsi
 
 * **PUT /api/Addresses/{addressId}/{studentId}** modifies an Address of a specified student
 
-<br />
-
+#### Students:
 * **GET /api/Students** retrieves all Students
 
 * **POST /api/Students** creates a new Student
