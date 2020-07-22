@@ -2,7 +2,7 @@
 
 This repository contains the URL for an API server that allows for creation and manipulation of Student and Address entities. 
 
-The Azure-hosted APIs can be found [here](https://msa-student-address.azurewebsites.net/)
+The Azure-hosted APIs can be found [here.](https://msa-student-address.azurewebsites.net/)
 
 ### Student table example:
 
