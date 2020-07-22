@@ -1,4 +1,4 @@
-# MSA-Database-Api
+# MSA-Database-API
 
 This repository contains the URL for an API server that allows for creation and manipulation of Student and Address entities. 
 
