@@ -1,6 +1,6 @@
 # MSA-Database-API
 
-This repository contains the URL for an API server that allows for creation and manipulation of Student and Address entities. 
+This repository contains the URL for an API server 
 
 The Azure-hosted APIs can be found [here](https://msa-student-address.azurewebsites.net/).
 
